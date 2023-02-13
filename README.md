@@ -13,8 +13,6 @@ To use: <br>
 4. Click the "OK" button for "yes" or "Cancel" button for "no" for the following questions on what is to be included in your password. <br>
 5. A random password with your desired length and criteria will be displayed. 
 <br>
-<br>
-<br>
 Below is a link to my deployed random password generator: <br>
 <a href="https://hflora2010.github.io/Password-Generator/">Random Password Generator</a>
 <br>
@@ -25,8 +23,8 @@ Below is a screenshot of the website you will access with the link above:
 
 ## Credits
 
-Starter code was provided by: Xander Rapstine
-This code can be found by clicking the link below: 
+Starter code was provided by: Xander Rapstine <br>
+This code can be found by clicking the following link: 
 <a href="https://github.com/coding-boot-camp/friendly-parakeet"> Starter Code</a>
 
 Code was built out with the help of: Tutors; Brandon Rose and Mila Hose
