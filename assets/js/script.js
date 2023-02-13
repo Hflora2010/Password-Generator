@@ -5,12 +5,14 @@ var lowerAlph; //lowercase letter
 var specChar; //special characters
 var number; //number
 
+
 //assigning the password criteria variables to values
 var upperAlph = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 var lowerAlph = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
 //splitting out commas in array so commas are not considered characters for password
 var specChar = "!,#,$,%,&,(,),*,+,-,.,/,:,;,<,=,>,?,@,[,],^,_,{,|,},~,".split(",")
 var number = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+
 
 //accessing random number in array by generating random float from zero to array's length and rounding to whole number. Synopsis of this function found/understood at: https://stackoverflow.com/questions/43267033/understanding-the-use-of-math-floor-when-randomly-accessing-an-array 
 function random(arr) {
